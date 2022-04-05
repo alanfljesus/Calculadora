@@ -8,4 +8,4 @@
 
 ### Calculadora simples utilizando JavaScript.
 
-<a href="https://c4lculador4.netlify.app/" target="_blank">LINK Calculadora</a>
+<a target="_blank" href="https://c4lculador4.netlify.app/">LINK Calculadora</a>
