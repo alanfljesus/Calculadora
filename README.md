@@ -9,3 +9,7 @@
 ### Calculadora simples utilizando JavaScript.
 
 <a target="_blank" href="https://c4lculador4.netlify.app/">LINK Calculadora</a>
+
+<div style="display: inline_block">
+  <img align="center" title="Calculadora" alt="Imagem da calculadora"src="https://i.imgur.com/r4WJQ5O.png">
+  </div>
